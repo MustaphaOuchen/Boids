@@ -32,7 +32,7 @@ Die verwendete k-d-Baum-Implementierung befindet sich in Boids\Assets\Scripts\Co
 - Boids\Assets\Scripts\HasseTesting\HasseDiagramBoidSpawner.cs (Methoden zur Abbildung und Anwendung der Graphvisualisierung)
 - Boids\Assets\Scripts\HasseTesting\NodeBoid.cs (Modellierung eines Boids auf einen Graphknoten)
 
-## Wichtige Klassen/Strukturen bezüglich datenorientierung und multithreading (Unity DOTS)
+## Wichtige Klassen/Strukturen bezüglich Datenorientierung und Multithreading (Unity DOTS)
 - Boids\Assets\Scripts\ECS\System\BoidMovementSystemSpatialHashing.cs
 - Boids\Assets\Scripts\ECS\System\BoidRotationSystem.cs
 - Boids\Assets\Scripts\ECS\System\BoidConfigurationSystem.cs
